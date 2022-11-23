@@ -4,10 +4,7 @@ import './App.css';
 
 // import './01-ts类型/01-基本类型';
 // import './01-ts类型/02-数组';
-import './01-ts类型/03-对象';
-
-
-
+// import './01-ts类型/03-对象';
 
 function App() {
   return (

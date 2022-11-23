@@ -1,0 +1,12 @@
+{
+    "fileheader.customMade": {
+
+    
+    },
+    "fileheader.configObj": {
+        "autoAdd": false, // 自动添加头部注释开启才能自动添加
+        "autoAlready": false, // 默认开启, 只给支持的语言添加注释
+        "createHeader": false, // 新建文件不自动添加注释
+        "prohibitAutoAdd": ["py"] // 禁止.json .md文件，自动添加头部注释
+      },
+}

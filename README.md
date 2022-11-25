@@ -11,3 +11,7 @@
 ## typescript
 
 静态模式的编辑器，转换为js
+
+### router的类型文档
+
+- npm i @types/react-router-dom@5

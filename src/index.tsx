@@ -7,7 +7,9 @@ import reportWebVitals from './reportWebVitals';
 // import App from './02-class+ts/02-todolist';
 // import App from './03-function+ts/01-state';
 // import App from './03-function+ts/02-todo';
-import App from './03-function+ts/03-props';
+// import App from './03-function+ts/03-props';
+import App from './04-router/App';
+
 
 
 
